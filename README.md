@@ -1,5 +1,5 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-## memo
+## Next
 
-- https://nextjs.org/learn/basics/assets-metadata-css/polishing-layout
+- https://nextjs.org/learn/basics/assets-metadata-css/styling-tips
